@@ -3,7 +3,7 @@
 /**
  * Plugin Name: PostHog Proxy
  * Description: Reverse proxy for forwarding analytics requests to PostHog from `/ingest/*`.
- * Version: 1.0
+ * Version: 1.0.1
  * Author: Adam Tulloss
  */
 
